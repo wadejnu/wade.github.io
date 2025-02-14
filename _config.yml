@@ -13,7 +13,7 @@ title                    : "Wade / 韦圣石"
 title_separator          : "-"
 name                     : &name "Wade"
 description              : &description "一枚平凡的数学教书匠。"
-url                      : https://wade.wei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://wadejnu.github.io/wade.wei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
